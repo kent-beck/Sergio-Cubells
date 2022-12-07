@@ -33,4 +33,4 @@ You may also see any lint errors in the console.
 
 ### `npm test`
 
-To launch all the test files.\
+To launch all the test files.
