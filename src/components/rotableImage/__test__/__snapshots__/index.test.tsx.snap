@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Renders a  Rotable image 1`] = `
+<DocumentFragment>
+  <div
+    class="rotableImage"
+  >
+    <img
+      draggable="false"
+      src="image1"
+    />
+  </div>
+</DocumentFragment>
+`;

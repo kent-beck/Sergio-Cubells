@@ -1,0 +1,17 @@
+.floatingPlusButton {
+    position:fixed;
+    width:50px;
+    height:50px;
+	bottom:40px;
+	right:40px;
+	border-radius:40px;
+	text-align:center;
+	box-shadow: 2px 2px 3px #999;
+    background:
+      linear-gradient(#fff 0 0),
+      linear-gradient(#fff 0 0),
+      #000;
+    background-position:center;
+    background-size: 50% 2px,2px 50%;
+    background-repeat:no-repeat;
+  }

@@ -1,0 +1,34 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Renders a  Content Detail 1`] = `
+<DocumentFragment>
+  <main
+    class="detailContentContainer"
+  >
+    <img
+      alt="Image for Coche"
+      class="detailMainImage"
+      src="someImageUrl"
+    />
+    <textarea
+      class="detailDescriptionTextArea"
+    >
+      someDescription
+    </textarea>
+    <div
+      class="detailPriceContent"
+    >
+      <div
+        class="detailPriceFrom"
+      >
+        desde
+      </div>
+      <div
+        class="detailPrice"
+      >
+        29.870 €
+      </div>
+    </div>
+  </main>
+</DocumentFragment>
+`;

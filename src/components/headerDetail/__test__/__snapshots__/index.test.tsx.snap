@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Render a  headerDetail 1`] = `
+<DocumentFragment>
+  <div
+    class="detailHeaderContainer"
+  >
+    <div
+      class="detailTitleContainer"
+    >
+      <img
+        alt="Back icon"
+        class="backIcon"
+        data-testid="backIcon"
+        src="https://configurador.seat.es/seat-cc/assets/icons/unofficial/flat-arrow-left.svg"
+      />
+      <strong
+        class="detailTitleCar"
+      >
+        Nuevo Titulo
+      </strong>
+    </div>
+  </div>
+</DocumentFragment>
+`;

@@ -1,0 +1,19 @@
+.detailContainer{
+    display: flex;
+    flex-direction: column;
+}
+
+.detailBodyContainer{
+    margin-top: 56px;
+}
+
+.deleteCarContainer{
+    text-align: end;
+    padding: 2rem;
+}
+
+.deleteCarText {
+    cursor: pointer;
+    color: rgb(208, 7, 7);
+    font-size: 14px;
+}

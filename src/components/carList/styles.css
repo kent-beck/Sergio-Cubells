@@ -1,0 +1,15 @@
+.carListContainer{
+display: grid;
+grid-template-columns: auto auto;
+width: 100%;
+max-width: 1016px;
+align-self: center;
+align-content: center;
+}
+
+@media (max-width: 767px){
+    .carListContainer{
+       display: flex;
+       flex-direction: column;
+    }
+}

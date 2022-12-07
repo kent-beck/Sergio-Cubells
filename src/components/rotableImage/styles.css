@@ -1,0 +1,7 @@
+.rotableImage{
+    touch-action: none;
+    user-select: none;
+    -webkit-user-drag: none;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+    cursor: url(https://configurador.seat.es/seat-cc/assets/icons/cursor/cursor_360.cur),auto;
+}

@@ -1,0 +1,65 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Render a  New Car Form 1`] = `
+<DocumentFragment>
+  <div
+    class="modalContainer"
+  >
+    <form
+      class="newCarForm"
+    >
+      <div
+        class="formTitleContainer"
+      >
+        <div
+          class="formTitleText"
+        >
+          Nuevo Coche
+        </div>
+        <img
+          class="closeFormIcon"
+          data-testid="closeFormIcon"
+          src="close.png"
+        />
+      </div>
+      <input
+        class="inputBorderBottom"
+        data-testid="inputForm"
+        name="title"
+        placeholder="Nombre del coche"
+        type="text"
+        value=""
+      />
+      <input
+        class="inputBorderBottom"
+        data-testid="inputForm"
+        name="euroPrice"
+        placeholder="Precio en Euros"
+        type="text"
+        value=""
+      />
+      <input
+        class="inputBorderBottom"
+        data-testid="inputForm"
+        name="image"
+        placeholder="Url de la imagen"
+        type="text"
+        value=""
+      />
+      <textarea
+        class="inputBorderBottom"
+        data-testid="textAreaForm"
+        name="description"
+        placeholder="Descripción"
+      />
+      <button
+        class="addCarButton"
+        data-testid="saveCarButton"
+        type="submit"
+      >
+        Guardar
+      </button>
+    </form>
+  </div>
+</DocumentFragment>
+`;

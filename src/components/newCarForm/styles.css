@@ -1,0 +1,38 @@
+.modalContainer{
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    background-color: rgba(0, 0, 0, 0.402);
+}
+
+.newCarForm {
+    padding: 0.5rem;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    border: 5px solid #fff;
+    border-radius: 5px;    background-color: #fff;
+    width: 50%;
+    height: 80%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.formTitleContainer{
+    display: flex;
+    flex-direction: row;
+}
+
+.formTitleText{
+    flex: 3;
+    justify-self: center;
+    font-size: 26px;
+    font-weight: bold;
+}
+
+.closeFormIcon{
+    height: 30px;
+    width: 30px;
+}

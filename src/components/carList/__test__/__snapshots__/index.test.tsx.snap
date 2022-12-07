@@ -1,0 +1,74 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Renders a  Car list 1`] = `
+<DocumentFragment>
+  <div
+    class="carListContainer"
+  >
+    <section
+      class="carItemSection"
+    >
+      <div
+        class="carItemContent"
+      >
+        <img
+          alt="Image for Coche"
+          class="carItemImage"
+          src="someImageUrl"
+        />
+        <main
+          class="carItemTextContainer"
+        >
+          <div
+            class="carItemTitle"
+          >
+            Coche
+          </div>
+          <div
+            class="carItemFrom"
+          >
+            desde
+          </div>
+          <div
+            class="carItemPrice"
+          >
+            29.870 €
+          </div>
+        </main>
+      </div>
+    </section>
+    <section
+      class="carItemSection"
+    >
+      <div
+        class="carItemContent"
+      >
+        <img
+          alt="Image for Coche"
+          class="carItemImage"
+          src="someImageUrl"
+        />
+        <main
+          class="carItemTextContainer"
+        >
+          <div
+            class="carItemTitle"
+          >
+            Coche
+          </div>
+          <div
+            class="carItemFrom"
+          >
+            desde
+          </div>
+          <div
+            class="carItemPrice"
+          >
+            39.170 €
+          </div>
+        </main>
+      </div>
+    </section>
+  </div>
+</DocumentFragment>
+`;

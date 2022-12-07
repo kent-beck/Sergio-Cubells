@@ -1,0 +1,27 @@
+.detailHeaderContainer{
+    transform: translate3d(0px, 0px, 0px);
+    width: 100%;
+    height: 56px;
+    position: fixed;
+    top: 0px;
+    bottom: auto;
+    left: 0px;
+    border-bottom: 1px solid rgba(51,48,46,.25);
+    display: flex;
+    align-items: center;
+    padding: 0 1rem;
+    height: 3.5rem;
+    background-color: #fff;
+}
+
+.detailTitleContainer{
+    cursor: pointer;
+}
+
+.backIcon{
+    width: 1rem;
+}
+
+.detailTitleCar{
+    margin-left: 16px;
+}
