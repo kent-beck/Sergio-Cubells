@@ -14,7 +14,6 @@ const RotableImage = ({ imageList }: { imageList: string[] }) => {
   ) => {
     const clientX = event.clientX;
     setMousePosition(clientX);
-    console.log(clientX);
   };
 
   const handleMouseUp = (
